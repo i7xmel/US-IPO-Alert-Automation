@@ -1,1 +1,1 @@
-This project is an automated workflow that uses the Nasdaq IPO calendar API to monitor same-day U.S. IPOs. It filters offerings with a total size above $200M and sends a daily email alert at 9:00 AM Dubai time with the qualifying companies.
+This project is an automated workflow that uses the Nasdaq IPO calendar API to monitor same-day U.S. IPOs.It filters offerings with an IPO offering value above $200M and sends a daily email alert at 9:00 AM Dubai time.
