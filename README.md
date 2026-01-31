@@ -8,7 +8,7 @@ What This Automation Does
 
 Fetches U.S. IPO data from Nasdaq
 
-Filters only today’s IPOs (not future dates)
+Filters only today’s IPOs 
 
 Selects IPOs with an offer amount greater than $200M
 
